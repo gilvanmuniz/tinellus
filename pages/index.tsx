@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Menu from './../components/navegation.jsx'
 const styles = require ('../styles/Home.module.scss')
 
 export default function Home() {
@@ -8,12 +9,12 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/icons/favicon.ico" />
       </Head>
-
+      <Menu />
       <main className={styles.main}>
         <h1 className={styles.title}>
           Tinéllus Serviços Digitais
         </h1>     
-       
+       <h6>Site em construção</h6>
       </main>
 
       <footer className={styles.footer}>
