@@ -3,7 +3,8 @@ const land = () => {
   return (
     <>
     <div className={geralstyle.geral}>
-      <h1>Landpage</h1>
+      <h1>Landing Pages</h1>
+      <img src="/images/Landing_page.svg" alt=""/>
     </div>  
     </>
   );

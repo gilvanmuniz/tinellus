@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
       <Menu />
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Tinéllus Serviços Digitais
-        </h1>     
+        <img src="/images/ideias2.jpg" alt="Serviços digitais"/>
+        <h3 className={styles.title}>
+          Vamos alavancar seu Negócio!!!
+        </h3>     
        <h6>Site em construção</h6>
       </main>
 
