@@ -1,0 +1,27 @@
+.geral {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-around;
+  padding: 1%;
+  img {
+    width: 42%;
+  }
+  .text {
+      background-color: rgb(255, 252, 247);
+      padding: 1%;
+      border-radius: 5%;
+      max-width: 42%;
+    p {
+      padding: 1%;
+      max-width: 93%;
+      text-indent: 2%;
+      color: #ff6600;
+    }
+  }
+}
+.complemento{
+
+    h1{
+        margin-left: 7%;
+    }
+}

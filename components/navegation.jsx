@@ -63,8 +63,7 @@ const Menu = () => {
         main: "#323131",
       },
       secondary: {
-        main: "#ff6600",
-        dark: "#ff0606",
+        main: "#f68f4a",        
       },
       neutral: {
         main: "#5c6ac4",
