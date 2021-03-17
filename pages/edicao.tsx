@@ -3,7 +3,7 @@ const edicao = () => {
   return (
     <>
       <div className={geralstyle.geral}>
-        <img src="/images/videos.svg" alt="Edição de Vídeos" />
+        <img id="video" src="/images/videos.svg" alt="Edição de Vídeos" />
         <div className={geralstyle.text}>
           <h3>Vídeos! Um impulso forte às vendas!</h3>
           <h3>Tenha edição PROFISSIONAL para seus vídeos.</h3>

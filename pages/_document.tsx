@@ -24,6 +24,8 @@ class MyDocument extends Document {
         <Html>
           <Head>
             <meta charSet="utf-8" />
+            <title>Create Next App</title>
+             <link rel="icon" href="/icons/favicon.ico" />
             {/* <meta
             name="viewport"
             content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no"

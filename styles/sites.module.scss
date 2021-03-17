@@ -25,3 +25,35 @@
         margin-left: 7%;
     }
 }
+@media screen and (max-width: 500px) {
+  .geral {
+    margin-top: 8%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1%;
+    text-align: center;
+    img {
+      width: 94%;
+      margin-top: 1.4%;
+    }
+    .siteWoman{
+      margin-top: 7%;
+      margin-left: 2.8%;
+    }
+    .text {
+        margin-top: 7%;
+        background-color: rgb(255, 252, 247);
+        padding: 1%;
+        border-radius: 5%;
+        max-width: 94%;
+        margin-left: 2.8%;
+      p {
+        padding: 1%;
+        max-width: 99%;
+        text-indent: 2%;
+        color: #ff6600;
+      }
+    }
+  }
+}

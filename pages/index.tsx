@@ -5,10 +5,6 @@ const styles = require ('../styles/Home.module.scss')
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/icons/favicon.ico" />
-      </Head>
       <Menu />
       <main className={styles.main}>
         <img src="/images/ideias2.jpg" alt="Serviços digitais"/>

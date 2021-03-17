@@ -9,7 +9,7 @@ const marketing = () => {
             <h4>Revolução de Marketing!!</h4>
           </p>
         </div>
-        <img src="/images/siteWoman.jpg" alt="Sites e Apps" />
+        <img className={geralstyle.siteWoman } src="/images/siteWoman.jpg" alt="Sites e Apps" />
       </div>
       <div className={geralstyle.complemento}>
         <h1>Marketing Digital</h1>

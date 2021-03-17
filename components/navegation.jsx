@@ -134,7 +134,7 @@ const Menu = () => {
           {/* <Typography variant="h6" className={classes.title}>
             News
           </Typography> */}
-          <Button color="secondary">Login</Button>
+          {/* <Button color="secondary">Login</Button> */}
         </Toolbar>
       </AppBar>
       <div>
